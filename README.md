@@ -1,0 +1,3 @@
+# First_Repository
+第一次练习上传项目到Github
+这个是一个简单的遗传算法
